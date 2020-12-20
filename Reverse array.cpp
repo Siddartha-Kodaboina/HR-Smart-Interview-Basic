@@ -1,5 +1,5 @@
 /*
-authour : steve
+author : steve
 date: 20-12-2020
 https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-reverse-array/problem
 */
